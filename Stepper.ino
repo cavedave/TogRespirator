@@ -1,7 +1,9 @@
-int delaylegnth = 5;
+
+int delaylegnth = 10;
 int var = 0;
 int var2 = 0;
 int var3 = 0;
+int inout=0;
 
 void setup() {
   
@@ -20,8 +22,9 @@ void setup() {
 
 void loop(){
 
-
-while (var < 100) {
+//inout++;
+//if(inout%2==1){
+while (var < 60) {
   // do something repetitive 200 times
   var++;
 
@@ -56,18 +59,22 @@ while (var < 100) {
   
   delay(delaylegnth);
 
+//}
+inout++;
+
 }
 
 
+//while (var3 < 100) {
+//delay(delaylegnth);
+//delay(delaylegnth);
+// var3++;
+//}
 
-while (var3 < 100) {
-delay(delaylegnth);
-delay(delaylegnth);
- var3++;
-}
+//if(inout%2==0){
+  
 
-
-while (var2 < 100) {
+while (var2 < 60) {
   // do something repetitive 200 times
   var2++;
 
@@ -79,7 +86,7 @@ while (var2 < 100) {
   analogWrite(3, 50);   //Moves CH A
   
   delay(delaylegnth);
-  
+   delay(delaylegnth);
   digitalWrite(9, HIGH);  //DISABLE CH A
   digitalWrite(8, LOW); //ENABLE CH B
 
@@ -87,7 +94,7 @@ while (var2 < 100) {
   analogWrite(11, 50);   //Moves CH B
   
   delay(delaylegnth);
-  
+  delay(delaylegnth); 
   digitalWrite(9, LOW);  //ENABLE CH A
   digitalWrite(8, HIGH); //DISABLE CH B
 
@@ -95,7 +102,7 @@ while (var2 < 100) {
   analogWrite(3, 50);   //Moves CH A
   
   delay(delaylegnth);
-    
+  delay(delaylegnth);   
   digitalWrite(9, HIGH);  //DISABLE CH A
   digitalWrite(8, LOW); //ENABLE CH B
 
@@ -103,9 +110,14 @@ while (var2 < 100) {
   analogWrite(11, 50);   //Moves CH B
   
   delay(delaylegnth);
-
+  delay(delaylegnth);
 
 }
+inout++;
+//}
 
 
+var=0;
+var2=0;
+var3=0;
 }
