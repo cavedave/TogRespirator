@@ -1,6 +1,6 @@
 # TogRespirator
 
-Science Hack Day Dublin 2020 Respirator Project. Making a cheap respirator out of easily available components.
+Science Hackday Dublin 2020 Respirator Project. Making a cheap respirator out of easily available components.
 
 
 ## Components
