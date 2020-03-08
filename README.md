@@ -23,6 +23,8 @@ Science Hackday Dublin 2020 Respirator Project. Making a cheap respirator out of
 
 [Design and Prototyping of a Low-Cost Portable Mechanical Ventilator](https://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf)
 
+[Pandemic Ventilator Project](http://panvent.blogspot.com/)
+
 ## Disclaimer
 
 This is not a practical system yet. This is a project in development for educational and research purposes.
