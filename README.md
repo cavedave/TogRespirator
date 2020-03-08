@@ -38,4 +38,3 @@ or higher level of protection) for aerosol-generating procedures, and several ho
 [<sup>2</sup> Respiratory support for patients with COVID-19 infection](https://www.thelancet.com/action/showPdf?pii=S2213-2600%2820%2930110-7) 
 
 
-## Number of respirators requires calculation
