@@ -25,6 +25,8 @@ Science Hackday Dublin 2020 Respirator Project. Making a cheap respirator out of
 
 [Pandemic Ventilator Project](http://panvent.blogspot.com/)
 
+[Ventilator technical information](https://www.hmebc.com/wp-content/uploads/Respironics-Synchrony-Bipap-Machine.pdf)
+
 ## Disclaimer
 
 This is not a practical system yet. This is a project in development for educational and research purposes.
