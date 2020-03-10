@@ -9,10 +9,11 @@ Science Hackday Dublin 2020 Respirator Project. Making a cheap respirator out of
  - Laser cutter to fabricate linear actuator
  - Arduino (Uno) for motor control
  - Bag Valve Mask
+ - Air pressure sensors (MPX5010). GY-63 could be a better choice
 
 ## Not yet implemented
 
- - Air pressure sensors
+ 
  - Actuator callibrator
  - Air flow meter
 
